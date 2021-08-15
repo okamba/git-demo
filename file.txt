@@ -1,1 +1,2 @@
 Some file for test
+Other text
